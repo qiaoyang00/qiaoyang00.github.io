@@ -4,11 +4,19 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home fa-lg
       href: index.html
     - text: "Introduction"
+      icon: fa-user-circle fa-lg
       href: intro.html
     - text: "STAT 585 Lab Repository"
+      icon: fa-laptop fa-lg
       href: lab.html
+  right:
+    - icon: fa-weixin fa-lg
+    - icon: fa-wifi fa-lg
+    - icon: fa-bluetooth-b fa-lg
+    - icon: fa-battery-1 fa-lg
 
 output:
   html_document:

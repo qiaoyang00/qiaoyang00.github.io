@@ -10,8 +10,8 @@ library(dplyr)
 library(leaflet)
 df <- sp::SpatialPointsDataFrame(
   rbind(
-    c(-93.6497436, 42.0284915),
-    c(118.791766, 32.0744986)
-  ), data.frame(label = c("Work"," HomeTown")))
-leaflet(df) %>% addTiles() %>% addMarkers(label = ~label)
+    c(-93.6497, 42.0285),
+    c(118.7918, 32.0745)
+  ), data.frame(label = c("Work", "HomeTown")))
+leaflet(df) %>% addTiles() %>% addMarkers(label = ~label) %>% setView(-93.6497, 42.0285, zoom = 17)
 ```
