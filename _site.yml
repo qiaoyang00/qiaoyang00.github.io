@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Yang Qiao"
   left:
     - text: "Home"
       icon: fa-home fa-lg
