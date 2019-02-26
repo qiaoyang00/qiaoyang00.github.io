@@ -8,7 +8,7 @@ title: "Introduction"
 
 ## Work now
 - Teaching Assistant on STAT 580 *Statistical Computing*
-- Teaching Assistant on STAT 456 *Applied Categorical Data Analysis*
+- Teaching Assistant on STAT 457 *Applied Categorical Data Analysis*
 
 ## Programming Skills
 - R
