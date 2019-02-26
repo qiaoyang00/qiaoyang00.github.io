@@ -3,11 +3,12 @@ title: "Introduction"
 ---
 
 ## Courses I am taking now
-- STAT 501 *Multivariate Statistic Method*
+- STAT 501 *Multivariate Statistical Method*
 - STAT 585 *Data Technologies for Statistical Analysis*
 
 ## Work now
 - Teaching Assistant on STAT 580 *Statistical Computing*
+- Teaching Assistant on STAT 456 *Applied Categorical Data Analysis*
 
 ## Programming Skills
 - R

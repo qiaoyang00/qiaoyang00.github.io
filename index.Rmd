@@ -5,7 +5,7 @@ title: "Yang Qiao"
 I am from Nanjing, China. Now I am a graduate student in Iowa State University, pursuing a Ph.D in Statistics.
 
 ## Where am I
-```{r, echo=F}
+```{r, echo=F, message=F}
 library(dplyr)
 library(leaflet)
 df <- sp::SpatialPointsDataFrame(
