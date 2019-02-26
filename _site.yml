@@ -1,0 +1,16 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Introduction"
+      href: intro.html
+    - text: "STAT 585 Lab Repository"
+      href: lab.html
+
+output:
+  html_document:
+    theme: lumen
+    highlight: tango

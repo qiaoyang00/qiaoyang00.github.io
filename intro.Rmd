@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+---
+
+## Courses I am taking now
+- STAT 501 *Multivariate Statistic Method*
+- STAT 585 *Data Technologies for Statistical Analysis*
+
+## Work now
+- Teaching Assistant on STAT 580 *Statistical Computing*
+
+## Programming Skills
+- R
+- Python
+- C
+
+## Hobbies
+- Playing badminton, playing table tennis, cycling, skiing 
+- Listening to music, playing the piano
+- 掼蛋

@@ -1,0 +1,17 @@
+---
+title: "Yang Qiao"
+---
+
+I am from Nanjing, China. Now I am a graduate student in Iowa State University, pursuing a Ph.D in Statistics.
+
+## Where am I
+```{r, echo=F}
+library(dplyr)
+library(leaflet)
+df <- sp::SpatialPointsDataFrame(
+  rbind(
+    c(-93.6497436, 42.0284915),
+    c(118.791766, 32.0744986)
+  ), data.frame(label = c("Work"," HomeTown")))
+leaflet(df) %>% addTiles() %>% addMarkers(label = ~label)
+```

@@ -1,0 +1,6 @@
+---
+title: "Lab"
+---
+
+- [Lab 1](https://github.com/lijing28101/STAT585_LAB1)
+- [Lab 2](https://github.com/xiyuansun/stat585-lab2)
